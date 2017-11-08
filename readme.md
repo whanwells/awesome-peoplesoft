@@ -52,6 +52,7 @@
 ([Part 2](https://pe0ples0ft.blogspot.com/2016/05/peopletools-855-using-oracle-jet-jquery_29.html),
 [Part 3](https://pe0ples0ft.blogspot.com/2016/05/peopletools-855-using-oracle-jet-jquery_30.html),
 [Part 4](https://pe0ples0ft.blogspot.com/2016/06/peopletools-855-using-oracle-jet-jquery.html)) - Use Oracle JET with PeopleTools 8.55+.
+* [<kbd>Ctrl</kbd> + <kbd>J</kbd> on Mobile Devices](https://pe0ples0ft.blogspot.com/2016/03/fluid-ui-ctrlj-on-mobile-devices.html)
 
 ### Event Mapping Framework
 
