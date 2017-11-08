@@ -12,7 +12,7 @@
   * [Fluid](#fluid)
   * [PeopleCode](#peoplecode)
   * [Event Mapping Framework](#event-mapping-framework)
-  * [Classic UI](#classic-ui)
+  * [Branding](#branding)
 * [Resources](#resources)
 * [Community Ideas](#community-ideas)
 * [License](#license)
@@ -41,13 +41,6 @@
 
 ### Fluid
 
-* [Fluid Branding](http://pe0ples0ft.blogspot.com/2015/06/peopletools-854-branding-part-5a-fluid.html)
-([Part 2](http://pe0ples0ft.blogspot.com/2015/11/peopletools-854-branding-part-5b-fluid.html),
-[Part 3](http://pe0ples0ft.blogspot.com/2015/11/peopletools-854-branding-part-5c-fluid.html),
-[Part 4](http://pe0ples0ft.blogspot.com/2016/03/peopletools-854-branding-part-5d-fluid.html))
-* [PeopleTools 8.55 Branding](https://pe0ples0ft.blogspot.com/2016/03/peopletools-855x-branding-part-i-what.html)
-([Part 2](https://pe0ples0ft.blogspot.com/2016/04/peopletools-855x-branding-part-ii.html),
-[Part 3](https://pe0ples0ft.blogspot.com/2016/04/peopletools-855x-branding-part-iii.html))
 * [Three Simple Tips for Fluid Beginners](http://www.peoplesoftjournal.com/2016/10/three-simple-tips-for-fluid-beginners.html) - Create tab bars and header panels, and set the page title at runtime.
 * [Fluid Navigation Collections](https://github.com/RicardoWood/PeopleStuff/wiki/Fluid-Navigation-Collections)
 * [How to Deploy Homepages, Tiles, and Branding](https://peoplesoftih.blogspot.com/2016/11/things-learned-during-our-855-rollout.html)
@@ -70,8 +63,15 @@
 * [Related Content/Event Mapping for Components not registered in the Portal](https://pe0ples0ft.blogspot.com/2017/02/rc-emf-for-components-not-in-portal-menu.html)
 * [Event Mapping Framework Migration](https://pe0ples0ft.blogspot.com/2016/12/event-mapping-framework-migration.html) - Migrate definitions using Application Designer.
 
-### Classic UI
+### Branding
 
+* [Fluid Branding](http://pe0ples0ft.blogspot.com/2015/06/peopletools-854-branding-part-5a-fluid.html)
+([Part 2](http://pe0ples0ft.blogspot.com/2015/11/peopletools-854-branding-part-5b-fluid.html),
+[Part 3](http://pe0ples0ft.blogspot.com/2015/11/peopletools-854-branding-part-5c-fluid.html),
+[Part 4](http://pe0ples0ft.blogspot.com/2016/03/peopletools-854-branding-part-5d-fluid.html))
+* [PeopleTools 8.55 Branding](https://pe0ples0ft.blogspot.com/2016/03/peopletools-855x-branding-part-i-what.html)
+([Part 2](https://pe0ples0ft.blogspot.com/2016/04/peopletools-855x-branding-part-ii.html),
+[Part 3](https://pe0ples0ft.blogspot.com/2016/04/peopletools-855x-branding-part-iii.html))
 * [Customizing `DEFAULT_THEME_TANGERINE`](https://pe0ples0ft.blogspot.com/2014/11/peopletools-854-branding-part-1.html)
 ([Part 2](https://pe0ples0ft.blogspot.com/2014/11/peopletools-854-branding-part-2.html),
 [Part 3](https://pe0ples0ft.blogspot.com/2014/12/peopletools-854-branding-part-3.html))
