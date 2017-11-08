@@ -82,14 +82,8 @@
 
 *These ideas need your votes!*
 
-* [Allow Change Assistant to Be Run Without "As Administrator"](https://community.oracle.com/ideas/13174)
-* [Quit Autoformatting PeopleCode/SQL in Application Designer](https://community.oracle.com/ideas/12589)
-* [Add Support for Custom Web Profile Names to DPK](https://community.oracle.com/ideas/12877)
-* [Provide a Run Control ID Management Component](https://community.oracle.com/ideas/13760)
-* [Patch DPK PeopleTools Middleware to the Latest CPU](https://community.oracle.com/ideas/17216)
-* [Provide the *New Window* Feature to Fluid Pages](https://community.oracle.com/ideas/16701)
-* [Display a Notification in the PeopleCode Editor if Event Mapping is Enabled](https://community.oracle.com/ideas/17620)
-* [Change the Default Value of *Search By* to *Process Name* for Process Definitions](https://community.oracle.com/ideas/13344)
+* [Lifecycle Management](https://community.oracle.com/community/support/peoplesoft/install_upgrade_-_psft/content?filterID=contentstatus[published]~objecttype~objecttype[idea])
+* [PeopleTools](https://community.oracle.com/community/support/peoplesoft/peopletools_-_psft/content?filterID=contentstatus[published]~objecttype~objecttype[idea]&sortKey=score)
 
 # License
 
