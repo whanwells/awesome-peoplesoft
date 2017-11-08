@@ -10,6 +10,7 @@
   * [Security](#security)
   * [DPK](#dpk)
   * [Fluid](#fluid)
+  * [PeopleCode](#peoplecode)
   * [Event Mapping Framework](#event-mapping-framework)
   * [Classic UI](#classic-ui)
 * [Resources](#resources)
@@ -27,7 +28,6 @@
 * [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
 * [Limit PeopleSoft Vulnerabilities](http://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/) - Tips for hardening your installation.
 * [`pscipher`, `psvault` and Web Server Passwords](http://psadmin.io/2017/01/31/pscipher-psvault-and-web-server-passwords/) - A look at password encryption for the web server.
-* [Implementing Google Authenticator in PeopleSoft](http://www.peoplesoftmods.com/2fa/implementing-google-authenticator-in-peoplesoft/) - Steps and code to use two factor authentication in PIA.
 
 ### DPK
 
@@ -56,6 +56,10 @@
 * [<kbd>Ctrl</kbd> + <kbd>J</kbd> on Mobile Devices](https://pe0ples0ft.blogspot.com/2016/03/fluid-ui-ctrlj-on-mobile-devices.html)
 * [PeopleSoft Fluid Push Notifications](https://peoplesoftih.blogspot.com/2017/10/push-notifications.html)
 * [How to Deploy Homepages, Tiles, and Branding](https://peoplesoftih.blogspot.com/2016/11/things-learned-during-our-855-rollout.html)
+
+### PeopleCode
+
+* [Implementing Google Authenticator in PeopleSoft](http://www.peoplesoftmods.com/2fa/implementing-google-authenticator-in-peoplesoft/) - Steps and code to use two factor authentication in PIA.
 
 ### Event Mapping Framework
 
