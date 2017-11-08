@@ -38,6 +38,7 @@
 * [Enable Tuxedo Domain Features with the DPK](http://psadmin.io/2016/10/12/enable-tuxedo-domain-features-with-the-dpk/) - Bug fix for setting Tuxedo features on Windows.
 * [Building a PIA Domain](http://psadmin.io/2016/09/07/advanced-dpk-building-a-pia-domain/)
 * [Advanced WebLogic Configuration with the DPK](http://psadmin.io/2016/07/19/advanced-weblogic-configuration-with-the-dpk/)
+* [Apply CPU Patches with Deployment Packages](http://psadmin.io/2017/05/02/apply-cpu-patches-with-deployment-packages/)
 
 ### Fluid
 
