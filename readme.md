@@ -26,18 +26,18 @@
 [Part 3](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/),
 [Part 4](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)) - Comprehensive coverage of the TokenChpoken vulnerability.
 * [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
-* [Limit PeopleSoft Vulnerabilities](http://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/) - Tips for hardening your installation.
 * [`pscipher`, `psvault` and Web Server Passwords](http://psadmin.io/2017/01/31/pscipher-psvault-and-web-server-passwords/) - A look at password encryption for the web server.
+* [Limit PeopleSoft Vulnerabilities](http://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/) - Tips for hardening your installation.
 
 ### DPK
 
 * [Dealing with Missing Required OS Packages](http://psadmin.io/2016/07/05/linux-dpk-dealing-with-missing-required-os-packages/) - Get required Linux packages installed.
 * [Explaining the `site.pp` File](http://psadmin.io/2016/06/07/explaining-the-site-pp-file/)
+* [Encrypt `psft_customizations.yaml` Passwords](http://psadmin.io/2016/10/25/encrypt-psft_customizations-yaml-passwords/)
 * [Multiple `PS_CFG_HOMEs` with the DPK](http://psadmin.io/2016/08/10/multiple-ps_cfg_homes-with-the-dpk/) - Use custom Puppet code to create multiple `PS_CFG_HOMEs`.
 * [Enable Tuxedo Domain Features with the DPK](http://psadmin.io/2016/10/12/enable-tuxedo-domain-features-with-the-dpk/) - Bug fix for setting Tuxedo features on Windows.
 * [Building a PIA Domain](http://psadmin.io/2016/09/07/advanced-dpk-building-a-pia-domain/)
 * [Advanced WebLogic Configuration with the DPK](http://psadmin.io/2016/07/19/advanced-weblogic-configuration-with-the-dpk/)
-* [Encrypt `psft_customizations.yaml` Passwords](http://psadmin.io/2016/10/25/encrypt-psft_customizations-yaml-passwords/)
 
 ### Fluid
 
@@ -48,16 +48,16 @@
 * [PeopleTools 8.55 Branding](https://pe0ples0ft.blogspot.com/2016/03/peopletools-855x-branding-part-i-what.html)
 ([Part 2](https://pe0ples0ft.blogspot.com/2016/04/peopletools-855x-branding-part-ii.html),
 [Part 3](https://pe0ples0ft.blogspot.com/2016/04/peopletools-855x-branding-part-iii.html))
+* [Three Simple Tips for Fluid Beginners](http://www.peoplesoftjournal.com/2016/10/three-simple-tips-for-fluid-beginners.html) - Create tab bars and header panels, and set the page title at runtime.
 * [Fluid Navigation Collections](https://github.com/RicardoWood/PeopleStuff/wiki/Fluid-Navigation-Collections)
+* [How to Deploy Homepages, Tiles, and Branding](https://peoplesoftih.blogspot.com/2016/11/things-learned-during-our-855-rollout.html)
+* [PeopleSoft Fluid Push Notifications](https://peoplesoftih.blogspot.com/2017/10/push-notifications.html)
+* [<kbd>Ctrl</kbd> + <kbd>J</kbd> on Mobile Devices](https://pe0ples0ft.blogspot.com/2016/03/fluid-ui-ctrlj-on-mobile-devices.html)
+* [New Window Feature Workaround](https://pe0ples0ft.blogspot.com/2017/01/flud-ui-new-window-feature-workaround.html)
 * [Using Oracle JET](https://pe0ples0ft.blogspot.com/2016/05/peopletools-855-using-oracle-jet-jquery.html)
 ([Part 2](https://pe0ples0ft.blogspot.com/2016/05/peopletools-855-using-oracle-jet-jquery_29.html),
 [Part 3](https://pe0ples0ft.blogspot.com/2016/05/peopletools-855-using-oracle-jet-jquery_30.html),
 [Part 4](https://pe0ples0ft.blogspot.com/2016/06/peopletools-855-using-oracle-jet-jquery.html)) - Use Oracle JET with PeopleTools 8.55+.
-* [<kbd>Ctrl</kbd> + <kbd>J</kbd> on Mobile Devices](https://pe0ples0ft.blogspot.com/2016/03/fluid-ui-ctrlj-on-mobile-devices.html)
-* [PeopleSoft Fluid Push Notifications](https://peoplesoftih.blogspot.com/2017/10/push-notifications.html)
-* [How to Deploy Homepages, Tiles, and Branding](https://peoplesoftih.blogspot.com/2016/11/things-learned-during-our-855-rollout.html)
-* [New Window Feature Workaround](https://pe0ples0ft.blogspot.com/2017/01/flud-ui-new-window-feature-workaround.html)
-* [Three Simple Tips for Fluid Beginners](http://www.peoplesoftjournal.com/2016/10/three-simple-tips-for-fluid-beginners.html) - Create tab bars and header panels, and set the page title at runtime.
 
 ### PeopleCode
 
