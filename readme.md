@@ -58,7 +58,7 @@
 
 * [Hello World and Quirks](https://pe0ples0ft.blogspot.com/2016/10/emf-hello-world-and-quirks.html) - Simple example to get familiar with the framework.
 * [Related Content/Event Mapping for Components not registered in the Portal](https://pe0ples0ft.blogspot.com/2017/02/rc-emf-for-components-not-in-portal-menu.html)
-* [Migration](https://pe0ples0ft.blogspot.com/2016/12/event-mapping-framework-migration.html) - Migrate definitions using Application Designer.
+* [Event Mapping Framework Migration](https://pe0ples0ft.blogspot.com/2016/12/event-mapping-framework-migration.html) - Migrate definitions using Application Designer.
 
 ### Classic UI
 
