@@ -60,6 +60,7 @@
 ### PeopleCode
 
 * [Implementing Google Authenticator in PeopleSoft](http://www.peoplesoftmods.com/2fa/implementing-google-authenticator-in-peoplesoft/) - Steps and code to use two factor authentication in PIA.
+* [Generating QR Codes in PeopleSoft](http://www.peoplesoftmods.com/2fa/generating-qr-codes-in-peoplesoft/)
 
 ### Event Mapping Framework
 
