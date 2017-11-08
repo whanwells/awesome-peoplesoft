@@ -56,6 +56,7 @@
 * [<kbd>Ctrl</kbd> + <kbd>J</kbd> on Mobile Devices](https://pe0ples0ft.blogspot.com/2016/03/fluid-ui-ctrlj-on-mobile-devices.html)
 * [PeopleSoft Fluid Push Notifications](https://peoplesoftih.blogspot.com/2017/10/push-notifications.html)
 * [How to Deploy Homepages, Tiles, and Branding](https://peoplesoftih.blogspot.com/2016/11/things-learned-during-our-855-rollout.html)
+* [New Window Feature Workaround](https://pe0ples0ft.blogspot.com/2017/01/flud-ui-new-window-feature-workaround.html)
 
 ### PeopleCode
 
