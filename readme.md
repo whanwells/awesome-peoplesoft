@@ -25,6 +25,7 @@
 ([Part 2](https://erpscan.com/press-center/blog/peoplesoft-security-part-2-decrypting-accessid/),
 [Part 3](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/),
 [Part 4](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)) - Comprehensive coverage of the TokenChpoken vulnerability.
+- [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
 - [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
 - [`pscipher`, `psvault` and Web Server Passwords](http://psadmin.io/2017/01/31/pscipher-psvault-and-web-server-passwords/) - A look at password encryption for the web server.
 - [Limit PeopleSoft Vulnerabilities](http://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/) - Tips for hardening your installation.
