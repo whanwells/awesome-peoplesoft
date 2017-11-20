@@ -21,11 +21,11 @@
 
 ### Security
 
-- ERPScan's TokenChpoken Series
+- **ERPScan's TokenChpoken Series**
   - [Overview of architecture](https://erpscan.com/press-center/blog/peoplesoft-security-part-1-overview-of-architecture/)
   - ["Decrypting" AccessID](https://erpscan.com/press-center/blog/peoplesoft-security-part-2-decrypting-accessid/)
   - [PeopleSoft SSO & TokenChpoken Attack](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/)
-  - [PeopleSoft pentest using TokenChpoken Tool](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)
+  - [PeopleSoft Pentest Using TokenChpoken Tool](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)
 - **ERPScan's Oracle PeopleSoft Security Configuration Series**
   - [Introduction](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-1/)
   - [Patch Management](https://erpscan.com/press-center/blog/peoplesoft-security-configuration-part-2-patch-management/)
