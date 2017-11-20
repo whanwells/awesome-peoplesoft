@@ -21,10 +21,11 @@
 
 ### Security
 
-- [ERPScan's TokenChpoken Series](https://erpscan.com/press-center/blog/peoplesoft-security-part-1-overview-of-architecture/)
-([Part 2](https://erpscan.com/press-center/blog/peoplesoft-security-part-2-decrypting-accessid/),
-[Part 3](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/),
-[Part 4](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/))
+- ERPScan's TokenChpoken Series
+  - [Overview of architecture](https://erpscan.com/press-center/blog/peoplesoft-security-part-1-overview-of-architecture/)
+  - ["Decrypting" AccessID](https://erpscan.com/press-center/blog/peoplesoft-security-part-2-decrypting-accessid/)
+  - [PeopleSoft SSO & TokenChpoken Attack](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/)
+  - [PeopleSoft pentest using TokenChpoken Tool](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)
 - [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
 - [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
 - [`pscipher`, `psvault` and Web Server Passwords](http://psadmin.io/2017/01/31/pscipher-psvault-and-web-server-passwords/) - A look at password encryption for the web server.
