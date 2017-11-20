@@ -22,7 +22,7 @@
 ### Security
 
 - **ERPScan's TokenChpoken Series**
-  - [Overview of architecture](https://erpscan.com/press-center/blog/peoplesoft-security-part-1-overview-of-architecture/)
+  - [Overview of Architecture](https://erpscan.com/press-center/blog/peoplesoft-security-part-1-overview-of-architecture/)
   - ["Decrypting" AccessID](https://erpscan.com/press-center/blog/peoplesoft-security-part-2-decrypting-accessid/)
   - [PeopleSoft SSO & TokenChpoken Attack](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/)
   - [PeopleSoft Pentest Using TokenChpoken Tool](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)
@@ -32,7 +32,7 @@
   - [Default Accounts](https://erpscan.com/press-center/blog/peoplesoft-default-accounts/)
   - [Unnecessary Functionality](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-4-unnecessary-functionality/)
   - [Open Remote Management Interfaces](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-5-open-remote-management-interfaces/)
-  - [Insecure settings](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-6-insecure-settings/)
+  - [Insecure Settings](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-6-insecure-settings/)
   - [Unencrypted Connections](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-7-unencrypted-connections/)
   - [Access Control and SoD Conflicts](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-8-access-control-sod-conflicts/)
 - [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
