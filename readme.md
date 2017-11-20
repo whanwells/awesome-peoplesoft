@@ -39,6 +39,7 @@
 - [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
 - [`pscipher`, `psvault` and Web Server Passwords](http://psadmin.io/2017/01/31/pscipher-psvault-and-web-server-passwords/) - A look at password encryption for the web server.
 - [Limit PeopleSoft Vulnerabilities](http://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/) - Tips for hardening your installation.
+- [Understanding the Check Token ID in PeopleTools 8.56](http://psadmin.io/2017/10/25/understanding-the-check-token-id-in-peopletools-8-56/)
 
 ### DPK
 
