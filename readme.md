@@ -35,7 +35,9 @@
   - [Insecure Settings](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-6-insecure-settings/)
   - [Unencrypted Connections](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-7-unencrypted-connections/)
   - [Access Control and SoD Conflicts](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-8-access-control-sod-conflicts/)
-- [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
+- **JOLTandBleed**
+  - [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
+  - [The Oracle (PeopleSoft/Tuxedo) JoltandBleed Vulnerabilities: What You Need to Know](https://blog.rapid7.com/2017/11/20/the-oracle-peoplesoft-tuxedo-joltandbleed-vulnerabilities-what-you-need-to-know/)
 - [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
 - [`pscipher`, `psvault` and Web Server Passwords](http://psadmin.io/2017/01/31/pscipher-psvault-and-web-server-passwords/) - A look at password encryption for the web server.
 - [Limit PeopleSoft Vulnerabilities](http://psadmin.io/2015/06/09/limit-peoplesoft-vulnerabilities/) - Tips for hardening your installation.
