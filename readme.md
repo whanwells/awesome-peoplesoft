@@ -21,12 +21,12 @@
 
 ### Security
 
-- **ERPScan's TokenChpoken Series**
+- ERPScan's TokenChpoken Series
   - [Overview of Architecture](https://erpscan.com/press-center/blog/peoplesoft-security-part-1-overview-of-architecture/)
   - ["Decrypting" AccessID](https://erpscan.com/press-center/blog/peoplesoft-security-part-2-decrypting-accessid/)
   - [PeopleSoft SSO & TokenChpoken Attack](https://erpscan.com/press-center/blog/peoplesoft-security-part-3-peoplesoft-sso-tokenchpoken-attack/)
   - [PeopleSoft Pentest Using TokenChpoken Tool](https://erpscan.com/press-center/blog/peoplesoft-security-part-4-peoplesoft-pentest-using-tokenchpoken-tool/)
-- **ERPScan's Oracle PeopleSoft Security Configuration Series**
+- ERPScan's Oracle PeopleSoft Security Configuration Series
   - [Introduction](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-1/)
   - [Patch Management](https://erpscan.com/press-center/blog/peoplesoft-security-configuration-part-2-patch-management/)
   - [Default Accounts](https://erpscan.com/press-center/blog/peoplesoft-default-accounts/)
@@ -35,7 +35,7 @@
   - [Insecure Settings](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-6-insecure-settings/)
   - [Unencrypted Connections](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-7-unencrypted-connections/)
   - [Access Control and SoD Conflicts](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-8-access-control-sod-conflicts/)
-- **JOLTandBleed**
+- JOLTandBleed
   - [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
   - [The Oracle (PeopleSoft/Tuxedo) JoltandBleed Vulnerabilities: What You Need to Know](https://blog.rapid7.com/2017/11/20/the-oracle-peoplesoft-tuxedo-joltandbleed-vulnerabilities-what-you-need-to-know/)
 - [PeopleSoft Passwords Decryption](https://erpscan.com/press-center/blog/peoplesoft-passwords-decryption/) - How to decrypt configuration passwords and tips to help protect yourself.
