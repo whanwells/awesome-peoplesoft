@@ -45,7 +45,7 @@
 
 ### DPK
 
-- [Dealing with Missing Required OS Packages](http://psadmin.io/2016/07/05/linux-dpk-dealing-with-missing-required-os-packages/) - Get required Linux packages installed.
+- [Dealing with Missing Required OS Packages](http://psadmin.io/2016/07/05/linux-dpk-dealing-with-missing-required-os-packages/) - Install DPK dependencies on Linux.
 - [Explaining the `site.pp` File](http://psadmin.io/2016/06/07/explaining-the-site-pp-file/)
 - [Encrypt `psft_customizations.yaml` Passwords](http://psadmin.io/2016/10/25/encrypt-psft_customizations-yaml-passwords/)
 - [Multiple `PS_CFG_HOMEs` with the DPK](http://psadmin.io/2016/08/10/multiple-ps_cfg_homes-with-the-dpk/) - Use custom Puppet code to create multiple `PS_CFG_HOMEs`.
