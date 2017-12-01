@@ -35,6 +35,7 @@
   - [Insecure Settings](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-6-insecure-settings/)
   - [Unencrypted Connections](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-7-unencrypted-connections/)
   - [Access Control and SoD Conflicts](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-8-access-control-sod-conflicts/)
+  - [Insecure Trusted Connections](https://erpscan.com/press-center/blog/eas-sec-oracle-peoplesoft-security-configuration-part-9-insecure-trusted-connections/)
 - JOLTandBleed
   - [PeopleSoft JOLTandBleed](https://erpscan.com/press-center/blog/peoplesoft-joltandbleed/) - Overview of the JOLTandBleed vulnerability.
   - [The Oracle (PeopleSoft/Tuxedo) JoltandBleed Vulnerabilities: What You Need to Know](https://blog.rapid7.com/2017/11/20/the-oracle-peoplesoft-tuxedo-joltandbleed-vulnerabilities-what-you-need-to-know/)
